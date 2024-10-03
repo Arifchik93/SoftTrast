@@ -1,0 +1,4 @@
+const script = document.createElement('script');
+script.src = 'externalScript.js';
+document.head.appendChild(script);
+
